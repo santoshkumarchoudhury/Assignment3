@@ -56,7 +56,7 @@ public abstract class AbstractStationaryUnits {
 
 	@Override
 	public String toString() {
-		return "\n Item Name"+ Constants.TO_STRING_SYMBOL  + itemName 
-				+ "\t  \t \t Item Price"+ Constants.TO_STRING_SYMBOL + itemPrice;
+		return "\n "+Constants.ITEM_NAME+ Constants.TO_STRING_SYMBOL  + itemName 
+				+ "\t  \t \t "+Constants.ITEM_PRICE+ Constants.TO_STRING_SYMBOL + itemPrice;
 	}
 }

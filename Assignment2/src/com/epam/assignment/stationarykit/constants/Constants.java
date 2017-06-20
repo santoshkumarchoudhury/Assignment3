@@ -36,5 +36,8 @@ public class Constants {
 	
 	public static final String CLIP_BRAND = "ABC";
 	public static final int CLIP_SIZE = 19;
+	
+	public static final String ITEM_PRICE = "Item Price";
+	public static final String ITEM_NAME = "Item Name";
 }
 
